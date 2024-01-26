@@ -1,2 +1,1 @@
-# github-recitation-s24
-Recitation Demo
+git-recitation-demo-bmodi
